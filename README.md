@@ -1,3 +1,5 @@
+[Headers](#headers)  
+
 # I daļa
 
 ## reimatoīds artrīts
@@ -6,74 +8,82 @@
 
 #### reimatoīda artrīta definīcija
 
-Pēc klasifikācijas **reimatoīds artrīts** pieder pie seropozitīviem iekaisuma artrītiem. Tam raksturīgs hronisks aseptisks sinovīts un progresējoši erozīvi destruktīvi locītavu bojājumi.
+Pēc klasifikācijas **reimatoīds artrīts** pieder pie seropozitīviem iekaisuma artrītiem. 
+
+Tam raksturīgs hronisks aseptisks sinovīts un progresējoši erozīvi destruktīvi locītavu bojājumi.
+
 locītavu bojājumi pakāpeniski noved pie locītavu skrimšļa un kaulu destrukcijas.
 
 #### 2010.gada klasifikācijas kritēriji
 lai noteiktu diagnozi : reimatoīdais artrīts, jāsavāc vismaz 6 punkti:
-A) locītavu bojājums
- 1 lielā locītava => 0pts
- 2-10 lielās locītavas => 1pts
- 1-3 mazās locītavas  => 2pts
- 4-10 mazo locītavu bojājumi => 3pts
- >10 locītavas, no kurām vismaz viena ir mazā => 5pts
- 
-B) seroloģija
-	negatīvs RF un anti-CCP	=> 0pts
-	zemi pozitīvs RF vai anti-CCP => 2pts
-	augsti pozitīvs RF vai anti-CCP , *(t.i. vismaz 3x pārsniedz normu )* => 3pts
 
-C) akūtās fāzes reaģenti
-	normāls CRO un EGR	=> 0pts
-	Paaugstināts CRO vai EGR -> 1pts
-D) simptomu ilgums
-	<6 nedēļas => 0pts
-	6+ nedēļas => 1pts
+1. locītavu bojājums
+   * 1 lielā locītava => 0pts
+   * 2-10 lielās locītavas => 1pts
+   * 1-3 mazās locītavas  => 2pts
+   * 4-10 mazo locītavu bojājumi => 3pts
+   * &gt;10 locītavas, no kurām vismaz viena ir mazā => 5pts 
+2. seroloģija
+   * negatīvs RF un anti-CCP	=> 0pts
+   * zemi pozitīvs RF vai anti-CCP => 2pts
+   * augsti pozitīvs RF vai anti-CCP , *(t.i. vismaz 3x pārsniedz normu )* => 3pts
+3. akūtās fāzes reaģenti
+   * normāls CRO un EGR	=> 0pts
+   * Paaugstināts CRO vai EGR -> 1pts
+4. simptomu ilgums
+   * <6 nedēļas => 0pts
+   * 6+ nedēļas => 1pts
  
 #### tipiska locītavu bojājuma rasturojums
 
 ##### tipiski iesaistītās locītavas
 tipiski poliartrīts (vismaz 6 iesaistītas locītavas) */\*lai arī sākotnēji var būt arī mazāk iesaistīto locītavu \*/*
+
 tipiski simetrisks locītavu bojājums */\* iesākumā var būt asimetrisks\*/*
 
 Metakarpofalangeālās locītavas (MKF)  - visbiežāk II, III MKF locītavas
+
 Proksimālās interfalangeālās locītavas (PIF)
+
 Metatarsofalangeālās locītavas (MTF)
+
 plaukstu lovītavas
+
 lielās locītavas : ceļi, pleci, pēdas, elkoņi , gūžas 
+
 
 ##### bojājumu strukturāls rakstutojums
 
-locītavas spraugas sašaurināšanās
-periatrikulāra osteoporoze
-erozijas
-subluksācija
-deformācijas
-periatrikulāro mīksto audu pietūkums
-sinovīts, pannus
-hipervaskularizācija
-sinovija proliferācija
+- locītavas spraugas sašaurināšanās
+- periatrikulāra osteoporoze
+- erozijas
+- subluksācija
+- deformācijas
+- periatrikulāro mīksto audu pietūkums
+- sinovīts, pannus
+- hipervaskularizācija
+- sinovija proliferācija
 
 ##### simptomi
 
-rīta stīvums > 1h
-agrīni  var novērot dorsālu plaukstas pietūkumu
-agrīni ir erozijas plaukstu, karpālās, mkf un pif locītavās, bet ne distālajās interfalangeālās locītavās
-ceļa locītavas pilnas ekstenzijas zudums 
-muguras skriemeļu bojājumi skar tikai kakla daļu
-reimatoīdie mezgli  ekstensoru cīpslās - mīksti, nesāpīgi zemādas mezgliņi. Parasti elkoņiem un plaukstām.
-Šegrēna (s. sausais) sindroms.
+- rīta stīvums &gt; 1h
+- agrīni  var novērot dorsālu plaukstas pietūkumu
+- agrīni ir erozijas plaukstu, karpālās, mkf un pif locītavās, bet ne distālajās interfalangeālās locītavās
+- ceļa locītavas pilnas ekstenzijas zudums 
+- muguras skriemeļu bojājumi skar tikai kakla daļu
+- reimatoīdie mezgli  ekstensoru cīpslās - mīksti, nesāpīgi zemādas mezgliņi. Parasti elkoņiem un plaukstām.
+- Šegrēna (s. sausais) sindroms.
 
 ##### deformācijas
 
-bieži vēlīni atīstās Metakarpofalangeālās(MKF) locītavu ulnāra deviācija ("Zig-zag deformācija") . Izraisa m.extensor carpi ularis vājums
-gulbja kakla deformācija
-pogveida deformācija
-rezorbtīva artropātija
-acetabulāra protrūvija (caput femoris atvirzās aksiāli)
-pronācijas deformācija pēdu locītavās 
-"āmurveida pirksti" - MTF subluksācija
-beikera cista dēļ izteikta sinovīta ceļa locītavā
+- bieži vēlīni atīstās Metakarpofalangeālās(MKF) locītavu ulnāra deviācija ("Zig-zag deformācija") . Izraisa m.extensor carpi ularis vājums
+- gulbja kakla deformācija
+- pogveida deformācija
+- rezorbtīva artropātija
+- acetabulāra protrūzija (caput femoris atvirzās aksiāli)
+- pronācijas deformācija pēdu locītavās 
+- "āmurveida pirksti" - MTF subluksācija
+- beikera cista dēļ izteikta sinovīta ceļa locītavā
 
 ### 2.Reimatoīds artrīts
 
@@ -84,19 +94,22 @@ beikera cista dēļ izteikta sinovīta ceļa locītavā
 ##### klīniskie
 
 ##### laboratoriskie
-	EGA , CRO
+
+EGA , CRO
 
 ##### DAS28
-	Disease Activity Score - sevī ietver :
-	* pierūkušo || sāpīgo locītavu skaitu no 28 locītavām, kas neietver gūžu un pēdu locītavas (locītavas analizē ārsts)
-	* pacienta vispārējā stāvokļa novērtējums vizuāli analogajā skalā
-	* EGR vai CRO līmeņus pēdējajā analīzē
+
+Disease Activity Score - sevī ietver :
+
+* pierūkušo || sāpīgo locītavu skaitu no 28 locītavām, kas neietver gūžu un pēdu locītavas (locītavas analizē ārsts)
+* pacienta vispārējā stāvokļa novērtējums vizuāli analogajā skalā
+* EGR vai CRO līmeņus pēdējajā analīzē
 	
-	Atkarībā no izmantotā : EGR vai CRO , DAS28 aprēķinam izmanto specifisku formulu.
-	Ja DAS28 < 2,6 => slimības remisija
-	Ja DAS28 no 2,6 līdz 3,2 => zema slimības aktivitāte
-	Ja DAS28 no 3,2 līdz 5,1 => vidēja slimības aktivitāte
-	Ja DAS28 virs 5,1 => augsta slimības aktivitāte
+Atkarībā no izmantotā : EGR vai CRO , DAS28 aprēķinam izmanto specifisku formulu.
+Ja DAS28 < 2,6 => slimības remisija
+Ja DAS28 no 2,6 līdz 3,2 => zema slimības aktivitāte
+Ja DAS28 no 3,2 līdz 5,1 => vidēja slimības aktivitāte
+Ja DAS28 virs 5,1 => augsta slimības aktivitāte
 
 ##### radioloģiskie
 
