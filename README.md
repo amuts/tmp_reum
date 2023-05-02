@@ -259,6 +259,9 @@ Blakus parādības : retinopātija(lietojot augstās devās)
 
 #### Osteoartrīta definīcija
 
+[Back to: Osteoartrīts ⬆️](#osteoartrīts)
+
+
 #### Osteoartrīta attīstības riska faktori
 
 
@@ -267,6 +270,7 @@ Blakus parādības : retinopātija(lietojot augstās devās)
 * sieviešu dzimums
 * ģimenes anamnēzē osteoartrīts
 
+[Back to: Osteoartrīts ⬆️](#osteoartrīts)rtrīts)
 --
 Nepietiekama slodze uz locītavas virsmām(nepietiekams vingrojumu daudzums) izraisa nepietiekamu skrimšļa barošanu.
 Pārmērīga slodze uz locītavas virsmām noved pie locītavu skrimšļa pārslodzes
@@ -275,18 +279,21 @@ samazināts hondrocītu skaits un aktivitāte
 samazināta proteoglikānu produkcija
 berzes iedarbībā atdalās nelielas skrimšļa daļiņas, kas iedarbojas abrazīvi, tādejādi veicinot turpmāku skrimšļa bojāšanos
 
+[Back to: Osteoartrīts ⬆️](#osteoartrīts)
+
 #### Tipiskā osteoartrīta klīniskā aina
 
 ##### tipiski iesaistītās locītavas
 
 ##### strukturālā bojājuma raksturojums
-Rtg ir standartmetode osteoartrīta vizualizēšanai.
-Rtg redzamas locītavas skimšļa zudums,
-asimetriski sašaurināta locītavas sprauga,
-sinoviāla hiperplāzija, 
-subhondrāla kaula skleroze,
-osteofītu veidošanās
-cistas
+
+* Rtg ir standartmetode osteoartrīta vizualizēšanai.
+* Rtg redzamas locītavas skimšļa zudums,
+* asimetriski sašaurināta locītavas sprauga,
+* sinoviāla hiperplāzija, 
+* subhondrāla kaula skleroze,
+* osteofītu veidošanās
+* cistas
 
 savienojumā ar CPDD ( pseidopodagru ) , var novērot hondrokalcinozi
 
@@ -294,68 +301,67 @@ savienojumā ar CPDD ( pseidopodagru ) , var novērot hondrokalcinozi
 
 ##### simptomi
 
-*	Sāpes (sākotnēji- "starta sāpes", vēlāk slodzes izraisītas sāpes, vēlīni - sāpes arī miera stāvoklī un naktī)
-*	Stīvums pēc atpūtas; rīta stīvums < 30min
-*	Krepitācija
-*	var būt mazizteikts pietūkums
-*	kurtību ierobežojums
-*	locītavu bojājums ir asimetrisks
+* Sāpes (sākotnēji- "starta sāpes", vēlāk slodzes izraisītas sāpes, vēlīni - sāpes arī miera stāvoklī un naktī)
+* Stīvums pēc atpūtas; rīta stīvums < 30min
+* Krepitācija
+* var būt mazizteikts pietūkums
+* kurtību ierobežojums
+* locītavu bojājums ir asimetrisks
 
 n.b. klīniskie simptomi var arī neatbilst rentgenoloģiskai ainai
  
 ##### deformācijas
 
-*	Heberdena mezgli
-*	Bušāra mezgli
-*	beikera cista
-*	Hallux valgus
-* 	Valgus ( X veida kājas)
-*	Vargus ( O veida kājas)
-*	muguras skriemeļu deformācijas radioloģiski
+* Heberdena mezgli
+* Bušāra mezgli
+* beikera cista
+* Hallux valgus
+* Valgus ( X veida kājas)
+* Vargus ( O veida kājas)
+* muguras skriemeļu deformācijas radioloģiski
 
-### 5.Osteoartrīts
+[Back to: Osteoartrīts ⬆️](#osteoartrīts)
 
-#### definīcija
-	[skat. 4. jautājumu](#osteoartrīta-definīcija)
 
 #### nefarmakoloģiskās terapijas principi
 
 
 * svara samazināšana
 * diēta
-	- samazināts cukura daudzums
-	- samazināts sāls daudzums
-	- samazināts dzīvnieku tauku daudzums
-	- iespējams, ierobežot : piparus, tomātus, kartupeļus
+  - samazināts cukura daudzums
+  - samazināts sāls daudzums
+  - samazināts dzīvnieku tauku daudzums
+  - iespējams, ierobežot : piparus, tomātus, kartupeļus
 * regulāra fiziskā aktivitāte
 * āstrnieciskā fizkultūra ; joga
 * locītavas pārmērīgas traumatizācias samazināšana
 * fizikālās procedūras 
-    - ultraskaņa
-	- ozokerīta aplikācijas
-	- ūdens procedūras
-	- dūņu aplikācijas
-	- magnetotreapija
+  - ultraskaņa
+  - ozokerīta aplikācijas
+  - ūdens procedūras
+  - dūņu aplikācijas
+  - magnetotreapija
 * blakusslimību adekvāta ārstēšana
 * pietūkuma gadijumā - lokāla akustuma aplikācija
-
 * palīgierīču izmantošana
-    - pielāgoti darbarīki
-	- ortopēdiskās zolītes
-	- ortopēdiskie apavi
-	- ortozes
-	- spieķi
+  - pielāgoti darbarīki
+  - ortopēdiskās zolītes
+  - ortopēdiskie apavi
+  - ortozes
+  - spieķi
 * adatterapija
+[Back to: Osteoartrīts ⬆️](#osteoartrīts)
+
 
 #### farmakoloģiskās terapijas principi
 
-**lokāla pretiekaisuma terapija** - gēli , krēmi, ziedes
+1. **lokāla pretiekaisuma terapija** - gēli , krēmi, ziedes
 uzsūcas ~1.1cm dziļumā, 4cm diametrā.
 Labāk kā sistēmiskie pretiekaisuma līdzekļi sasniedz koncentrāciju saitēs, cīpslās, periatrikulāros audos.
 mazāk sistēmisko blakņu salīdzinot ar sistēmiskiem pretiekaisumu līdzekļiem.
 stiprāks = ketoprofēns > diklofenaks ? indometacīns = vājāks
 lokālie pretiekaisuma līdzekļi ir efektīvi mērenu sāpju gadijumā
-** Sistēmiska pretiekaisuma terapija **
+2. **Sistēmiska pretiekaisuma terapija**
 :bangbang:  farmakoloģiskā līdzekļa izvēle ir atkarīga no:
 - iepriekš lietotās terapijas efektivitātes
 - blakusslimībām
@@ -363,37 +369,39 @@ lokālie pretiekaisuma līdzekļi ir efektīvi mērenu sāpju gadijumā
 - vecuma
 - maksātspējas
 
-**NSPL** nedrīkst lietot patstāvīgi.
+3. **NSPL** nedrīkst lietot patstāvīgi.
 izmantojami : diklofenaks , nimesulīds, melokikāms
 nevajadzēdu izmantot: ibuprofēnu, fenoprofēnu, jo *in vivo* samazina GAG sintēzi
 nevajadzētu izmantot: indometacīnu, jo veicina osteoartrīta progresiju
 
-** Diacerin ** 
+4. **Diacerin** 
 IL-1 inhibitors, samazina skrimšļa dilšanu, tādejādi samazina sāpes, krepitāciju, stīvumu
 Blaknes : diareja,nausea,vemšana. Urīna krāsas izmaiņa  ( no N ) uz intensīvi dzeltenu
 
-** Glikokortikoīdu injicēšana locītavā**
+5. **Glikokortikoīdu injicēšana locītavā**
  var veikt, ja ir sinovīts. Ne vairāk kā 3x gadā
  
-** mākslīgo "lubrikantu" intraatrikulāras injekcijas**
+6. **mākslīgo "lubrikantu" intraatrikulāras injekcijas**
 Hialuronskābe, augšanas faktori
 
-** Hondroprotektori(uztura bagātinātāji) - neviennozīmīga efektivitāte pētijumos **
- Glikozamīns
- Hondroitīnsulfāts
- Hialuronskābe
- Kolagēns
+7. **Hondroprotektori(uztura bagātinātāji) - neviennozīmīga efektivitāte pētijumos**
+   - Glikozamīns
+   - Hondroitīnsulfāts
+   - Hialuronskābe
+   - Kolagēns
  
- ideja, ka stimulē hondrocītu veidošanos un hialuronātu sintēzi , kas savukārt samazina sāpes, krepitāciju un uzlabo kustību apjomu
+   ideja, ka stimulē hondrocītu veidošanos un hialuronātu sintēzi , kas savukārt samazina sāpes, krepitāciju un uzlabo kustību apjomu
+
 #### ķirurģiskā ārstēšana
 
 osteoartrīta gadijumā iespējama artroskopija un endoprotezēšana
 
+[Back to: Osteoartrīts ⬆️](#osteoartrīts)
 
 
-### 6.Osteoartrīts
-6.	Osteoartrīta un reimatoīdā artrīta patoģenēzes, klīniskās ainas un terapijas stratēģijas galvenās atšķirības. 
+#### 6.	Osteoartrīta un reimatoīdā artrīta patoģenēzes, klīniskās ainas un terapijas stratēģijas galvenās atšķirības. 
 
+⚠️
 Īsti nesaprotu jautājumu
 
 #### patoģenēze
