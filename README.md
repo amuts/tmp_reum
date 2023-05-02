@@ -1,10 +1,20 @@
-[Headers](#headers)  
 
-# I daļa
+
+# sākums
 
 ## reimatoīds artrīts
 
-### 1. Reimatoīds artrīts
+### Reimatoīds artrīts
+
+- [definīcija](#reimatoīda-artrīta-definīcija)
+- [2010.gada klasifikācijas kritēriji](#2010-gada-klasifikācijas-kritēriji)
+- [tipiska locītavu bojājuma rasturojums](#tipiska-locītavu-bojājuma-rasturojums)
+- [slimības aktivitātes novērtējuma principi](#slimības-aktivitātes-novērtējuma-principi)
+- [imunoloģisko parametru klīniskā nozīme](#imunoloģisko-parametru-klīniskā-nozīme)
+
+
+
+[back home ⏫](#sākums)
 
 #### reimatoīda artrīta definīcija
 
@@ -14,7 +24,9 @@ Tam raksturīgs hronisks aseptisks sinovīts un progresējoši erozīvi destrukt
 
 locītavu bojājumi pakāpeniski noved pie locītavu skrimšļa un kaulu destrukcijas.
 
-#### 2010.gada klasifikācijas kritēriji
+[Back to: Reimatoīds artrīts ⬆️](#reimatoīds-artrīts)
+
+#### 2010 gada klasifikācijas kritēriji
 lai noteiktu diagnozi : reimatoīdais artrīts, jāsavāc vismaz 6 punkti:
 
 1. locītavu bojājums
@@ -31,9 +43,12 @@ lai noteiktu diagnozi : reimatoīdais artrīts, jāsavāc vismaz 6 punkti:
    * normāls CRO un EGR	=> 0pts
    * Paaugstināts CRO vai EGR -> 1pts
 4. simptomu ilgums
-   * <6 nedēļas => 0pts
+   * &lt;6 nedēļas => 0pts
    * 6+ nedēļas => 1pts
- 
+
+
+[Back to: Reimatoīds artrīts ⬆️](#reimatoīds-artrīts)
+
 #### tipiska locītavu bojājuma rasturojums
 
 ##### tipiski iesaistītās locītavas
@@ -85,13 +100,17 @@ lielās locītavas : ceļi, pleci, pēdas, elkoņi , gūžas
 - "āmurveida pirksti" - MTF subluksācija
 - beikera cista dēļ izteikta sinovīta ceļa locītavā
 
-### 2.Reimatoīds artrīts
+[Back to: Reimatoīds artrīts ⬆️](#reimatoīds-artrīts)
 
-#### definīcija
-	[skat. 1. jautājumu](#reimatoīda-artrīta-definīcija)
+
+
+
+
 #### slimības aktivitātes novērtējuma principi
 
 ##### klīniskie
+
+⚠️ no data
 
 ##### laboratoriskie
 
@@ -113,24 +132,32 @@ Ja DAS28 virs 5,1 => augsta slimības aktivitāte
 
 ##### radioloģiskie
 
+⚠️
+
+
+[Back to: Reimatoīds artrīts ⬆️](#reimatoīds-artrīts)
+
+
 #### imunoloģisko parametru klīniskā nozīme
 
 ##### RF
-
+⚠️
 ##### antiCCP
+⚠️
 
-### 3. Reimatoīds artrīts
+[Back to: Reimatoīds artrīts ⬆️](#reimatoīds-artrīts)
 
-#### definīcija
-	[skat. 1. jautājumu](#reimatoīda-artrīta-definīcija)
-	
+
 #### terapijas mērķis un principi
-	Terapija ir jāuzskāk maksimāli agrīni,jebkurā slimības stadjiā, lai samazinātu neatgriezenisku bojājumu un funkcionālo nespēju.
+
+Terapija ir jāuzskāk maksimāli agrīni,jebkurā slimības stadjiā, lai samazinātu neatgriezenisku bojājumu un funkcionālo nespēju.
 	
 
 ##### farmakoloģiskā ārstēšana
-	Ja viena SMARM terapiju, pievienot otro SMARM. Reizēm sākotnēji var būt nepieciešama kombinēta terapija.
-	Farmakoloģiski  izmantojami ir NSPL, GK un SMARM (sSMARM,bSMARM un JAKi)
+
+Ja viena SMARM terapiju, pievienot otro SMARM. Reizēm sākotnēji var būt nepieciešama kombinēta terapija.
+
+Farmakoloģiski  izmantojami ir NSPL, GK un SMARM (sSMARM,bSMARM un JAKi)
 	
 	
 
@@ -139,14 +166,26 @@ Ja DAS28 virs 5,1 => augsta slimības aktivitāte
 ###### Metotreksāts
 	
 pie aktīva RA pirmais bāzes medikaments ir Metotreksāts(MTX) , pieder pie sSMARM.
+
 Lietojamā deva ir 7,5 līdz 25 mg/nedēļā ; p/o vai s/c 
-Metotreskāta blakusparādības :  nausea, aknu bojājums, ciroze, intersticiāls plaušu bojājums, alopēcoija, infekcijas, gļotādu čūlas. Reti , bet var izraisīt limfomu.
+
+Metotreskāta blakusparādības : 
+- nausea
+- aknu bojājums,ciroze
+- intersticiāls plaušu bojājums, 
+- alopēcoija, 
+- infekcijas, 
+- gļotādu čūlas. 
+- Reti , bet var izraisīt limfomu.
 
 Ja 3 mēnešu laikā no terapijas sākuma nav uzlabojuma => nepieteikama MTX efektivitāte => jāpielāgo terapija
+
 Ja 6 mēnešu laikā no terapijas sākuma nav sasniegts mērķis => nepietiekama MTX efektivitāte => jāpielāgo terapija
 
 
+
 Ja jāpielāgo terapija & nav nelabvēlīgie faktori => jāapsver Sulfasalazīnu vai Leflunomīdu.
+
 Ja jāpielāgo terapija & ir nelabvēlīgie faktori => jāpievieno bSMARM vai tsSMARM
 
 piezīme  : nelabvēlīgie prognostiskie faktori : 
@@ -159,37 +198,50 @@ piezīme  : nelabvēlīgie prognostiskie faktori :
 ###### Leflunomīds
 
 Ja ir MTX kontaindikācijas vai nepanesamība, var apsvērt ledlunomīdu monoterapijā.
+
 Līdzīga efektivitāte kā MTX
+
 Mazina strukturālo progresiju
+
 Lietojamā deva : 10 līdz 20mg/dienā
+
 Blakus parādības  : diareja, aknu bojājums , alopēcija, izsitumi, infekcijas
 	
 	
 ###### Sulfasalazīns
 
 Ja ir MTX kontaindikācijas vai nepanesamība, var apsvērt sulfasalazīnu monoterapijā.
+
 Kombinācijā ar citiem SMARMiem var izmantot smaga RA gadijumā
+
 Nedaudz labāka efektivitāte par hidroksihlorokvīnu
+
 Lietojamā deva : 2-3g/dn
+
 Blakus parādības : KZT karinājums, izsitumi, leikopēnija
 
 ###### hidroksihlorokvīns
 
 Var lietot monoterapijā viegla vai agrīna TRA gadijumā
+
 Kombinācijā ar citiem SMARMiem var izmantot smaga RA gadijumā
+
 Nav pārliecinošu datu, ka palēninātu strukturālo RA progresiju
+
 Lietojamā deva : 200-400mg/dn
+
 Blakus parādības : retinopātija(lietojot augstās devās)
 
 
 	
 
 ##### ķirurģiskā ārstēšana
-
+⚠️
 ##### uzturošā teraoija
-
+⚠️
 ##### terapija paasinājuma periodā
-
+⚠️
+[Back to: Reimatoīds artrīts ⬆️](#reimatoīds-artrīts)
 
 
 
