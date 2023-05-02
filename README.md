@@ -2,6 +2,10 @@
 
 # sākums
 
+- [Reimatoīds Artrīts](#reimatoīds-artrīts)
+- [Osteoartrīts](#osteoartrīts)
+
+
 ## reimatoīds artrīts
 
 ### Reimatoīds artrīts
@@ -11,6 +15,7 @@
 - [tipiska locītavu bojājuma rasturojums](#tipiska-locītavu-bojājuma-rasturojums)
 - [slimības aktivitātes novērtējuma principi](#slimības-aktivitātes-novērtējuma-principi)
 - [imunoloģisko parametru klīniskā nozīme](#imunoloģisko-parametru-klīniskā-nozīme)
+- [terapijas mērķis un principi](#terapijas-mērķis-un-principi)
 
 
 
@@ -56,15 +61,11 @@ tipiski poliartrīts (vismaz 6 iesaistītas locītavas) */\*lai arī sākotnēji
 
 tipiski simetrisks locītavu bojājums */\* iesākumā var būt asimetrisks\*/*
 
-Metakarpofalangeālās locītavas (MKF)  - visbiežāk II, III MKF locītavas
-
-Proksimālās interfalangeālās locītavas (PIF)
-
-Metatarsofalangeālās locītavas (MTF)
-
-plaukstu lovītavas
-
-lielās locītavas : ceļi, pleci, pēdas, elkoņi , gūžas 
+- Metakarpofalangeālās locītavas (MKF)  - visbiežāk II, III MKF locītavas
+- Proksimālās interfalangeālās locītavas (PIF)
+- Metatarsofalangeālās locītavas (MTF)
+- plaukstu lovītavas
+- lielās locītavas : ceļi, pleci, pēdas, elkoņi , gūžas 
 
 
 ##### bojājumu strukturāls rakstutojums
@@ -125,10 +126,13 @@ Disease Activity Score - sevī ietver :
 * EGR vai CRO līmeņus pēdējajā analīzē
 	
 Atkarībā no izmantotā : EGR vai CRO , DAS28 aprēķinam izmanto specifisku formulu.
-Ja DAS28 < 2,6 => slimības remisija
-Ja DAS28 no 2,6 līdz 3,2 => zema slimības aktivitāte
-Ja DAS28 no 3,2 līdz 5,1 => vidēja slimības aktivitāte
-Ja DAS28 virs 5,1 => augsta slimības aktivitāte
+
+| DAS28           |  aktivitāte       |
+| --------------- | ----------------- |
+| &lt2.6          | slimības remisija |
+| no 2,6 līdz 3,2 | zema aktivitāte   |
+| no 3,2 līdz 5,1 | vidēja aktivitāte | 
+| virs 5,1        | augsta aktivitāte |
 
 ##### radioloģiskie
 
@@ -246,11 +250,12 @@ Blakus parādības : retinopātija(lietojot augstās devās)
 
 
 
-
+-----
 
 ## Osteoartrīts
 
-### 4. Osteoartrīts
+[back home ⏫](#sākums)
+
 
 #### Osteoartrīta definīcija
 
